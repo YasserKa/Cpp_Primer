@@ -15,3 +15,4 @@ int main()
               << sum << std::endl;
     return 0;
 }
+

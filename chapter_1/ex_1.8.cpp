@@ -8,3 +8,4 @@ std::cout << "*/";  //legal
 std::cout << /* */"*/" /**/;
 std::cout << /* "*/" /* "/*" */; //legal
 }
+

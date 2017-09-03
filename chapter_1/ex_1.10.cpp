@@ -2,13 +2,14 @@
 
 int main()
 {
-    int sum = 0, val = 10;
+    int sum = 0, val = 10, tmp = val;;
 
-    while (val >= 1) {
-        sum += val;
-        --val;
+    while (tmp >= 1) {
+        sum += tmp;
+        --tmp;
     }
-    std::cout << "Sum of 1 to 10" << " inclusive is "
+    std::cout << "Sum of " << val << " to  " << tmp << " inclusive is "
               << sum << std::endl;
     return 0;
 }
+

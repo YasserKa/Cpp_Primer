@@ -5,3 +5,4 @@
  * Both types can be used but it's more favorable to use the one that makes the
  * code more readable
  */
+
