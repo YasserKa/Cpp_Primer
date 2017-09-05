@@ -1,10 +1,4 @@
 /**
- * const char ca[] = {'h', 'e', 'l', 'l', 'o'};
- * const char *cp = ca;
- * while (*cp) {
- *     cout << *cp << endl;
- *     ++cp;
- * }
- * Prints hello
+ * The result of adding 2 pointers isn't a useful
  */
 
